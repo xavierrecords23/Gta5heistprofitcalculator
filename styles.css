@@ -1,0 +1,66 @@
+#notes{
+  color:white;
+  position:absolute;
+  top:-150px;
+}
+#Cayo_Perico_output{
+  border-style:solid;
+  position:absolute;
+  top:75px;
+  right:0px;
+  width:190px;
+  height:20px;
+  background-color:orange;
+}
+
+#base{
+  width:500px;
+  height:300px;
+  border-style:solid;
+  position:absolute;
+  top:50%;
+  left:50%;
+   transform:translate(-50%,-50%);
+}
+#heistset{
+  position:absolute;
+  left:206px;
+  top:0px;
+  background-color: black;
+  width:100px;
+  height:300px;
+}
+
+#numinputs{
+    width:200px;
+  height:200px;
+  border-style:solid;
+  position:absolute;
+  bottom:0px;
+  left:0px;
+  
+}
+#text_input_above{
+  position: absolute;
+  bottom:-60px;
+  left:0px;
+  background-color:brown;
+  width:200px;
+  height:35px;
+  text-align: center;
+}
+
+#inputdsiplay{
+  border-style:solid;
+  position:absolute;
+  width:200px;
+  height:50px;
+  left:0px;
+  top:0px;
+  
+}
+
+.inputbutton{
+  width:50px;
+  height:40px;
+}
